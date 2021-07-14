@@ -38,7 +38,7 @@ Example 2:
 
 (b) Classification - Given a patient with a tumor, we have to predict whether the tumor is malignant or benign. 
 
-@ Unsupervised Learning
+# Unsupervised Learning
 ### Unsupervised Learning
 Unsupervised learning allows us to approach problems with little or no idea what our results should look like. We can derive structure from data where we don't necessarily know the effect of the variables.
 
